@@ -29,9 +29,9 @@
 ---
 
 ##📌 Featured Projects  
-🔹 [Project 1](#) – Flappy Bird (using python)
-🔹 [Project 2](#) – Hand Cricket (using HTML, CSS & JS)
-🔹 [Project 3](#) – Coming Soon 🚀
+- Project 1 – Flappy Bird (using python)
+- Project 2 – Hand Cricket (using HTML, CSS & JS)
+- Project 3 – Coming Soon 🚀
 ---
 
 ## 📊 GitHub Stats  
