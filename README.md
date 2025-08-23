@@ -1,6 +1,8 @@
 <!-- ✨ Dynamic Animated Intro ✨ -->
 # 👋👋👋👋👋👋👋👋👋👋👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&weight=800&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=✨+Hola+amigos,+this+is+Soumya.;💻+CSE+Core+Student+@+VIT+CHENNAI;🚀+Open+Source+Programming+%7C+Competitive+Coding+Enthusiast;💡+%22Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.%22)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&weight=800&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=✨+Hola+amigos,+this+is+Soumya.;💻+CSE+Core+Student+@+VIT+CHENNAI;🚀+Open+Source+Programming+%7C+Competitive+Coding+Enthusiast;💡+%22Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.%22)](https://git.io/typing-svg)-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&lines=✨+Hola+amigos,+this+is+Soumya.;💻+CSE+Core+Student+@+VIT+CHENNAI;🚀+Open+Source+Programming+%7C+Competitive+Coding+Enthusiast;💡+"Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.")](https://git.io/typing-svg)
+
 
 
 
