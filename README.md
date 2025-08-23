@@ -38,7 +38,8 @@
 
 ![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=brovoski69&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brovoski69&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brovoski69&layout=compact&theme=tokyonight)  
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brovoski69&layout=compact&theme=tokyonight) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brovoski69&layout=compact&theme=tokyonight&langs_count=10)
 
 ---
 
