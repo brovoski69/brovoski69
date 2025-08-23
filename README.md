@@ -29,10 +29,10 @@
 ---
 
 ## 📌 Featured Projects  
-🔹 [Project 1](#) – Flappy Bird (in python)
+🔹 [Project 1](#) – Flappy Bird (using python)
 <!--🔹 [Project 2](#) – Another highlight project  -->
-🔹 [Project 2](#) – More coming soon 🚀  
-
+🔹 [Project 2](#) – Hand Cricket (using HTML, CSS & JS)
+🔹 [Project 3](#) – Coming Soon 🚀
 ---
 
 ## 📊 GitHub Stats  
