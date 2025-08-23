@@ -1,7 +1,7 @@
 <!-- ✨ Dynamic Animated Intro ✨ -->
 # 👋👋👋👋👋👋👋👋👋👋👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&weight=800&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=✨+Hola+amigos,+this+is+Soumya.;💻+CSE+Core+Student+@+VIT+CHENNAI;🚀+Open+Source+Programming+%7C+Competitive+Coding+Enthusiast;💡+%22Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.%22)](https://git.io/typing-svg)
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=✨+Hola+amigos,+this+is+Soumya.;💻+CSE+Core+Student+@+VIT+CHENNAI;🚀+Open+Source+Programming+%7C+Competitive+Coding+Enthusiast;💡+%22Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.%22)](https://git.io/typing-svg) -->
 
 
 ---
@@ -35,9 +35,9 @@
 
 ## 📊 GitHub Stats  
 
-![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=brovoski69&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brovoski69&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brovoski69&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -48,4 +48,5 @@
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username)  
+<!--![Visitors](https://visitor-badge.laobi.icu/badge?page_id=brovoski69)-->
+![Visitors](https://komarev.com/ghpvc/?username=brovoski69&style=for-the-badge&color=blueviolet)
