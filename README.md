@@ -1,16 +1,51 @@
-## Hi there 👋
+<!-- ✨ Dynamic Animated Intro ✨ -->
+# 👋👋👋👋👋👋👋👋👋👋👋
 
-<!--
-**brovoski69/brovoski69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=✨+Hola+amigos,+this+is+Soumya.;💻+CSE+Core+Student+@+VIT+CHENNAI;🚀+Open+Source+Programming+%7C+Competitive+Coding+Enthusiast;💡+%22Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.%22)](https://git.io/typing-svg) -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+- 🎯 Goal: Contribute to **Open Source** (aiming for **GSoC 2026**)  
+- 💡 Curious about **AI & ML, Open Source and Competitive Coding**  
+- 🎲 Treat algorithms like puzzles and enjoy solving them  
+- 🎮 Casual gamer (but coding > gaming 😅)  
+
+---
+
+## 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+<!-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge) -->
+
+---
+
+## 📌 Featured Projects  
+🔹 [Project 1](#) – Flappy Bird (in python)
+<!--🔹 [Project 2](#) – Another highlight project  -->
+🔹 [Project 2](#) – More coming soon 🚀  
+
+---
+
+## 📊 GitHub Stats  
+
+![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect With Me  
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](your-linkedin-link)  -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white&style=for-the-badge)](your-portfolio-link) -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/eZZ5UYKS8h/)
+
+---
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username)  
