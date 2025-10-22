@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎯 Goal: Contribute to **Open Source** (aiming for **GSoC 2026**)  
+- 🎯 Goal: Contribute to **Open Source** (aiming for **GSoC**)  
 - 💡 Curious about **AI & ML, Open Source and Competitive Coding**  
 - 🎲 Treat algorithms like puzzles and enjoy solving them  
 - 🎮 Casual gamer (but coding > gaming 😅)  
