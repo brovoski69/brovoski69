@@ -1,14 +1,10 @@
-<!-- ✨ Dynamic Animated Intro ✨ -->
-# 👋👋👋👋👋👋👋👋👋👋👋
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&weight=800&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=✨+Hola+amigos,+this+is+Soumya.;💻+CSE+Core+Student+@+VIT+CHENNAI;🚀+Open+Source+Programming+%7C+Competitive+Coding+Enthusiast;💡+%22Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.%22)](https://git.io/typing-svg)-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&lines=✨+Hola+amigos,+this+is+Soumya.;💻+CSE+Core+Student+@+VIT+CHENNAI;🚀+Open+Source+Programming+%7C+Competitive+Coding+Enthusiast;💡+"Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.")](https://git.io/typing-svg)
-
-
-
-
----
-
-## 🚀 About Me  
+## 🚀 About Me
+- Hi, I'm Soumya!!! 
+- **CSE Core** undergrad @ **VIT Chennai**  
+- Passionate about **Full-Stack Development**, **AI/ML**, and **Open Source**  
+- Love turning ideas into clean, scalable code  
+- Competitive coder — treat every problem like a puzzle waiting to be cracked  
+- Currently exploring **Deep Learning** and building cool side projects
 
 
 ---
@@ -52,8 +48,8 @@
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/soumya-prakash-jena-a46989372)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white&style=for-the-badge)](soumya-jena.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/soumya-prakash-jena-a46989372)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white&style=for-the-badge)](https://soumya-jena.vercel.app)
 
 ---
 
