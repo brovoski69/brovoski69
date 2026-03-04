@@ -42,6 +42,9 @@ Hi, I'm Soumya. Currently, I'm a **CSE Core** undergraduate student at **VIT Che
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
+![QBasic](https://img.shields.io/badge/-QBasic-0078D4?logo=windows&logoColor=white&style=for-the-badge)
 
 ---
 
