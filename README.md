@@ -53,8 +53,7 @@
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/soumya-prakash-jena-a46989372)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white&style=for-the-badge)](your-portfolio-link) -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/eZZ5UYKS8h/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white&style=for-the-badge)](soumya-jena.vercel.app)
 
 ---
 
