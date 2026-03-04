@@ -1,11 +1,5 @@
 ## 🚀 About Me
-- Hi, I'm Soumya!!! 
-- **CSE Core** undergrad @ **VIT Chennai**  
-- Passionate about **Full-Stack Development**, **AI/ML**, and **Open Source**  
-- Love turning ideas into clean, scalable code  
-- Competitive coder — treat every problem like a puzzle waiting to be cracked  
-- Currently exploring **Deep Learning** and building cool side projects
-
+Hi, I'm Soumya. Currently, I'm a **CSE Core** undergraduate student at **VIT Chennai**. I'm passionate about **Full-Stack Development**, **AI/ML**, and **Open Source**. I love turning ideas into clean, scalable code. I am also a competitive coder and enjoy solving complex problems like a puzzle. Currently exploring new technologies and building cool side projects.
 
 ---
 
