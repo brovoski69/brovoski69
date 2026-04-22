@@ -50,7 +50,7 @@ Hi, I'm Soumya. Currently, I'm a **CSE Core** undergraduate student at **VIT Che
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/soumya-prakash-jena-a46989372)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=googlechrome&logoColor=white&style=for-the-badge)](https://soumya-jena.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=googlechrome&logoColor=white&style=for-the-badge)](https://soumya-jena.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:dearspj@gmail.com)
 
 ---
