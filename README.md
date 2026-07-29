@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There,%20I'm%20Soumya%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Undergrad%20@%20VIT%20Chennai%20|%20Full-Stack%20+%20AI/ML&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- Typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+cool+side+projects+%F0%9F%9A%80;Full-Stack+Developer;AI%2FML+Enthusiast;Learning+German+%F0%9F%87%A9%F0%9F%87%AA;Open+to+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+cool+side+projects+%F0%9F%9A%80;Full-Stack+Developer;AI%2FML+Enthusiast;Open+to+Opportunities" alt="Typing SVG" />
 
 <br>
 
